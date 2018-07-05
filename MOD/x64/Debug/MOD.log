@@ -1,0 +1,7 @@
+﻿  MOD.cpp
+c:\users\admin\source\repos\mod\mod\mod.cpp(27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\admin\source\repos\mod\mod\mod.cpp(28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\admin\source\repos\mod\mod\mod.cpp(29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\admin\source\repos\mod\mod\mod.cpp(30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\admin\source\repos\mod\mod\mod.cpp(104): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  MOD.vcxproj -> C:\Users\admin\source\repos\MOD\x64\Debug\MOD.exe
